@@ -1,0 +1,14 @@
+﻿Build started 7/15/2019 1:34:51 PM.
+     1>Project "C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\OpenCVTest_FA_Mapping_240519\OpenCVTest\OpenCVTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\OpenCV\opencv300\Build\x64\vc11\..\..\include /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt SGBM_PP_test.cpp
+         SGBM_PP_test.cpp
+     1>SGBM_PP_test.cpp(307): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\OpenCVTest_FA_Mapping_240519\x64\Debug\OpenCVTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenCV\opencv300\Build\x64\vc11\lib opencv_world300d.lib opencv_ts300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\OpenCVTest_FA_Mapping_240519\x64\Debug\OpenCVTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\OpenCVTest_FA_Mapping_240519\x64\Debug\OpenCVTest.lib" /MACHINE:X64 x64\Debug\SGBM_PP_test.obj
+         OpenCVTest.vcxproj -> C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\OpenCVTest_FA_Mapping_240519\x64\Debug\OpenCVTest.exe
+     1>Done Building Project "C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\OpenCVTest_FA_Mapping_240519\OpenCVTest\OpenCVTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.69

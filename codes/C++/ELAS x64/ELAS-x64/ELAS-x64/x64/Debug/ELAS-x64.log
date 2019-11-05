@@ -1,0 +1,57 @@
+﻿Build started 6/26/2019 9:05:59 PM.
+     1>Project "C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\ELAS_X64_FA _Mapping_240519\ELAS x64\ELAS-x64\ELAS-x64\ELAS-x64.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /IC:\OpenCV\opencv300\Build\x64\vc11\..\..\include /Zi /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt elas.cpp main.cpp
+         elas.cpp
+     1>c:\users\m8avhru\documents\visual studio 2012\projects\elas_x64_fa _mapping_240519\elas x64\elas-x64\elas-x64\elas.h(95): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\m8avhru\documents\visual studio 2012\projects\elas_x64_fa _mapping_240519\elas x64\elas-x64\elas-x64\elas.h(103): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\m8avhru\documents\visual studio 2012\projects\elas_x64_fa _mapping_240519\elas x64\elas-x64\elas-x64\elas.h(122): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\m8avhru\documents\visual studio 2012\projects\elas_x64_fa _mapping_240519\elas x64\elas-x64\elas-x64\elas.h(130): warning C4305: '=' : truncation from 'double' to 'float'
+     1>elas.cpp(452): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>elas.cpp(457): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(458): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(462): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(463): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(538): warning C4244: '=' : conversion from 'FLOAT' to 'float', possible loss of data
+     1>elas.cpp(539): warning C4244: '=' : conversion from 'FLOAT' to 'float', possible loss of data
+     1>elas.cpp(540): warning C4244: '=' : conversion from 'FLOAT' to 'float', possible loss of data
+     1>elas.cpp(566): warning C4244: '=' : conversion from 'FLOAT' to 'float', possible loss of data
+     1>elas.cpp(567): warning C4244: '=' : conversion from 'FLOAT' to 'float', possible loss of data
+     1>elas.cpp(568): warning C4244: '=' : conversion from 'FLOAT' to 'float', possible loss of data
+     1>elas.cpp(603): warning C4244: '=' : conversion from 'float' to 'int32_t', possible loss of data
+     1>elas.cpp(605): warning C4244: '=' : conversion from 'float' to 'int32_t', possible loss of data
+     1>elas.cpp(606): warning C4244: 'initializing' : conversion from 'float' to 'int32_t', possible loss of data
+     1>elas.cpp(778): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(837): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(838): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(839): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(841): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(842): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(843): warning C4244: '=' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(845): warning C4244: 'initializing' : conversion from 'int32_t' to 'float', possible loss of data
+     1>elas.cpp(990): warning C4244: '=' : conversion from 'float' to 'int32_t', possible loss of data
+     1>elas.cpp(1320): warning C4305: 'argument' : truncation from 'int' to 'float'
+         Generating Code...
+         Compiling...
+         main.cpp
+     1>c:\users\m8avhru\documents\visual studio 2012\projects\elas_x64_fa _mapping_240519\elas x64\elas-x64\elas-x64\elas.h(95): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\m8avhru\documents\visual studio 2012\projects\elas_x64_fa _mapping_240519\elas x64\elas-x64\elas-x64\elas.h(103): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\m8avhru\documents\visual studio 2012\projects\elas_x64_fa _mapping_240519\elas x64\elas-x64\elas-x64\elas.h(122): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\m8avhru\documents\visual studio 2012\projects\elas_x64_fa _mapping_240519\elas x64\elas-x64\elas-x64\elas.h(130): warning C4305: '=' : truncation from 'double' to 'float'
+     1>main.cpp(96): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+     1>main.cpp(152): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\ELAS_X64_FA _Mapping_240519\ELAS x64\ELAS-x64\x64\Debug\ELAS-x64.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenCV\opencv300\Build\x64\vc11\lib opencv_world300d.lib opencv_ts300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\ELAS_X64_FA _Mapping_240519\ELAS x64\ELAS-x64\x64\Debug\ELAS-x64.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\ELAS_X64_FA _Mapping_240519\ELAS x64\ELAS-x64\x64\Debug\ELAS-x64.lib" /MACHINE:X64 x64\Debug\descriptor.obj
+         x64\Debug\elas.obj
+         x64\Debug\filter.obj
+         x64\Debug\main.obj
+         x64\Debug\matrix.obj
+         x64\Debug\triangle.obj
+         ELAS-x64.vcxproj -> C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\ELAS_X64_FA _Mapping_240519\ELAS x64\ELAS-x64\x64\Debug\ELAS-x64.exe
+     1>Done Building Project "C:\Users\m8avhru\Documents\Visual Studio 2012\Projects\ELAS_X64_FA _Mapping_240519\ELAS x64\ELAS-x64\ELAS-x64\ELAS-x64.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.64

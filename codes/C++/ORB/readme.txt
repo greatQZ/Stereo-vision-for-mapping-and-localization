@@ -1,0 +1,1 @@
+can be used in SGBM visual studio project, just replace the source file by using this one.
